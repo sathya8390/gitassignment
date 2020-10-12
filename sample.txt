@@ -1,2 +1,5 @@
-i am learning devops
+i am learning devops training
+ f2
 this is feature f2
+this is feature f1
+main
